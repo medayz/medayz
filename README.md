@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-Here's some stuff about me:
+**Here's some stuff about me:**
 
 * I'm a Frontend Developer, currently focusing on **React** and related technologies. I'm also interested in Functional Programming and I love writing functional style code.
 
@@ -12,4 +12,4 @@ Here's some stuff about me:
 
 * I love equally drinking both, Coffee :coffee: and The Moroccan :morocco: Tea :tea:	
 
-:computer: Currently looking for a full-time Frontend Engineer job.
+Currently looking for a full-time Frontend Engineer job :computer:
