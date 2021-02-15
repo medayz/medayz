@@ -8,7 +8,7 @@
 
 * I spent the last year learning about **JavaScript**, **React** and building school projects with these technologies, I also had a **six-month internship in Frontend Engineering** where I used primarily **React** to build web applications.
 
-* Besides coding :keyboard:, I love sunny days :sunny:, music :guitar:, traveling :earth_africa:, soccer :soccer:, and design :computer_mouse:
+* Besides coding :keyboard: I love sunny days :sunny: music :guitar: traveling :earth_africa: soccer :soccer: and design :computer_mouse:
 
 * I love equally drinking both, Coffee :coffee: and The Moroccan :morocco: Tea :tea:	
 
