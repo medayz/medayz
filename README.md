@@ -10,6 +10,4 @@
 
 * Besides coding :keyboard: I love sunny days :sunny: music :guitar: traveling :earth_africa: soccer :soccer: and design :computer_mouse:
 
-* I love equally drinking both, Coffee :coffee: and The Moroccan :morocco: Tea :tea:	
-
-Currently looking for a full-time Frontend Engineer job :computer:
+* I love equally drinking both, Coffee :coffee: and The Moroccan :morocco: Tea :tea:
