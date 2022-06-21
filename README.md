@@ -2,10 +2,14 @@
 
 **Here's some stuff about me:**
 
-* I'm a Frontend Developer, currently focusing on **React** and related technologies. I'm also interested in Functional Programming and I enjoy writing functional style code.
+* I'm a Frontend Developer, mainly using **React**. I'm interested in Functional Programming and technologies from the React ecosystem.
 
-* I'm a student at [1337](https://1337.ma) where I learned about algorithms and web development. 1337 is part of the international [42 network](https://www.42.fr/42-network). The 42 pedagogy is based on learning by building projects and peer-review. That helped me gain experience in building modern web applications, defending my code, and working in a team.
+* I spent the last four years learning and building with Javascript and React, and about a couple of years that passed already using these technologies in a professional environment.
+  - I started at school by building a dating app and a torrent streaming platform.
+  - Then, I worked on an identity verification SAAS MVP at my internship.
+  - I've had some freelance experience working on a SAAS and an e-commerce website later, for half a year.
+  - Finally, I spent more than a year now working full-time, building and maintaining a large-scale e-commerce website.
 
 * Besides coding :keyboard: I love sunny days :sunny: music :guitar: traveling :earth_africa: soccer :soccer: and design :computer_mouse:
 
-* I love equally drinking both, Coffee :coffee: and The Moroccan :morocco: Tea :tea:
+* I like having a cup of coffee :coffee: in the morning and some morroccan tea :morocco: :tea: in the afternoon.
