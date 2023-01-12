@@ -4,11 +4,9 @@
 
 * I'm a Frontend Developer, mainly using **React**. I'm interested in Functional Programming and technologies from the React ecosystem.
 
-* I spent the last four years learning and building with Javascript and React, and about a couple of years that passed already using these technologies in a professional environment.
   - I started at school by building a dating app and a torrent streaming platform.
-  - Then, I worked on an identity verification SAAS MVP at my internship.
-  - I've had some freelance experience working on a SAAS and an e-commerce website later, for half a year.
-  - Finally, I spent more than a year now working full-time, building and maintaining a large-scale e-commerce website.
+  - At my internship, I built the UI of an identity verification SAAS MVP .
+  - I've been coding websites for about 3 years exclusively with JS/TS and React. Most of my professional experience was in e-commerce and SAAS solutions.
 
 * Besides coding :keyboard: I love sunny days :sunny: music :guitar: traveling :earth_africa: soccer :soccer: and design :computer_mouse:
 
